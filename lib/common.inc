@@ -1,0 +1,6 @@
+.DEF XL = R26
+.DEF XH = R27
+.DEF YL = R28
+.DEF YH = R29
+.DEF ZL = R30
+.DEF ZH = R31
